@@ -24,7 +24,7 @@ function Employee(name, age, jobTitle) {
 	}
 }
 
-let p2=new Employee("Soruab",26,"Developer");
+let p2=new Employee("Bob",30,"Manager");
 p2.jobGreet();
 
 // Do not change code below this line
